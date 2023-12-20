@@ -43,6 +43,9 @@ print("{:.2f}".format(norm))
 ![](./2.png)
 
 
+
+
+
 ### Infinity Norm of a Matrix
 ![](./3.png)
 ## Result
